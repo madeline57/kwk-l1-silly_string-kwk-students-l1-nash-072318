@@ -10,7 +10,7 @@ puts "supercalifragilisticexpialidocious"
 b = "supercalifragilisticexpialidocious"
 
 
-puts "wow + mom".irb 
-c = "wow + mom".irb
+puts wow + mom.irb 
+c = wow + mom .irb
 
 c
