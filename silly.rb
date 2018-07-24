@@ -10,3 +10,5 @@ puts "supercalifragilisticexpialidocious"
 b = "supercalifragilisticexpialidocious"
 
 
+puts " i really like programing".capitalize
+c = 
